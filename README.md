@@ -8,9 +8,9 @@ The catalogue includes seven categories, search, sorting, a product detail dialo
 
 ## Specification status — important
 
-The source archive contains screenshots only. No screenshot supplies sliced filament weight or measured model dimensions. **None of the 73 weights or dimensions is verified.** All numeric weights are provisional planning ranges, and sizes are proposed W × D × H in centimetres, not measurements of the original models. The website states this both globally and per item.
+The source archive contains screenshots only. No screenshot supplies sliced filament weight or measured model dimensions. **None of the 73 weights or dimensions is verified.** All numeric weights are provisional planning ranges, and sizes are proposed W × D × H in centimetres, not measurements of the original models. The product specifications and detail dialogs label these assumptions.
 
-Material estimates use the user-supplied spool price: ¥3,400 / 1,000 g = ¥3.40/g. These are filament values, **not final selling prices**. The website does not invent an approved retail markup. Supports, flushing, labour, hardware, delivery, and other costs need a final quote.
+Material estimates use the user-supplied spool price: ¥3,400 / 1,000 g = ¥3.40/g. The customer-facing label is **Est. price**. These provisional estimates are based on filament use; a final quote is confirmed on enquiry. The website does not invent an approved retail markup. Supports, flushing, labour, hardware, delivery, and other costs need a final quote.
 
 `specifications.csv` attaches the complete item-by-item record, including assumptions, material calculations, source-search links, and empty verified specification fields. `catalogue-data.json` preserves the editable structured data; the browser loads the same data from `products.js` so the webpage works without a server.
 
@@ -26,6 +26,8 @@ Online searches on 2026-09-06 used visible model names and creators. Searches di
 - P070 Floating Dripping Candle Holder: https://makerworld.com/en/models/1842354-floating-dripping-candle-led-tealight-holder — exact link published by the creator at https://www.patreon.com/posts/floating-candle-140090011; no specifications verified.
 
 Names and credits were transcribed from the supplied images. Simplified customer-facing names distinguish similar designs. Original screenshot headers remain accessible through “Full reference image.” PNG images were compressed to JPEG for the web; no generated replacement imagery was used. Reference photos may show sets/props; descriptions state the estimated unit for each multi-item photograph.
+
+The catalogue keeps the customer flow focused on browsing and enquiry; the introductory estimate notice, pricing explainer, and how-to-order sections have been removed. Phone layouts use full-width photos, larger touch targets, and 16 px form inputs.
 
 ## Validation
 
