@@ -10,7 +10,7 @@ The catalogue includes seven categories, search, sorting, a product detail dialo
 
 The source archive contains screenshots only. No screenshot supplies sliced filament weight or measured model dimensions. **None of the 73 weights or dimensions is verified.** All numeric weights are provisional planning ranges, and sizes are proposed W × D × H in centimetres, not measurements of the original models. The product specifications and detail dialogs label these assumptions.
 
-Material estimates use the user-supplied spool price: ¥3,400 / 1,000 g = ¥3.40/g. The customer-facing label is **Est. price**. These provisional estimates are based on filament use; a final quote is confirmed on enquiry. The website does not invent an approved retail markup. Supports, flushing, labour, hardware, delivery, and other costs need a final quote.
+Each product has an explicit estimated price range, with a minimum starting price of ¥100. A final quote is confirmed on enquiry. Printing requirements, finishing, hardware, delivery, and other costs may affect that quote.
 
 `specifications.csv` attaches the complete item-by-item record, including assumptions, material calculations, source-search links, and empty verified specification fields. `catalogue-data.json` preserves the editable structured data; the browser loads the same data from `products.js` so the webpage works without a server.
 
