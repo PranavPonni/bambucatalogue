@@ -33,4 +33,8 @@ Names and credits were transcribed from the supplied images. Simplified customer
 - Browser checks in Chrome: 73 products; category counts; search, empty state and reset; price sorting; product dialog and Escape; item/phone values in WhatsApp links; no JavaScript errors; no page overflow at 390 px and 320 px; direct local-file loading.
 - Desktop and mobile screenshot review.
 
-This is a local website, not a publicly deployed URL. Font loading uses Google Fonts, with local serif/sans-serif fallbacks if offline.
+GitHub Pages deployment: https://pranavponni.github.io/bambucatalogue/
+
+Publishing source: **Deploy from a branch → main → / (root)**. Push changes to `main` to update the public catalogue. `.nojekyll` tells Pages to serve these static files directly. Settings: https://github.com/PranavPonni/bambucatalogue/settings/pages
+
+Font loading uses Google Fonts, with local serif/sans-serif fallbacks if offline.
