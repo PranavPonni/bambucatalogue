@@ -11,6 +11,39 @@
   const dimensions = p => p.proposedDimensionsCm.join(' × ') + ' cm';
   const message = p => `Hi! I'm interested in ${p.name} (${p.id}) from the Little Layers catalogue. Please confirm the available size, colour, print weight, and final price.\nPreferred colour: \nQuantity: `;
   const whatsapp = (number,p) => `https://wa.me/${number}?text=${encodeURIComponent(message(p))}`;
+  const parseCsvRow = row => {
+    const cells=[];
+    let value='', quoted=false;
+    for(let i=0;i<row.length;i++){
+      const char=row[i];
+      if(char==='"' && quoted && row[i+1]==='"'){value+='"';i++;}
+      else if(char==='"') quoted=!quoted;
+      else if(char===',' && !quoted){cells.push(value);value='';}
+      else value+=char;
+    }
+    cells.push(value);
+    return cells;
+  };
+  async function applyCsvOverrides(){
+    try{
+      const response=await fetch('specifications.csv',{cache:'no-store'});
+      if(!response.ok) return;
+      const rows=(await response.text()).trim().split(/\r?\n/).map(parseCsvRow);
+      const headers=rows.shift();
+      const column=name=>headers.indexOf(name);
+      const indexes={id:column('ID'),dimensions:column('Proposed W x D x H cm (NOT measured)'),minimum:column('Estimated price min JPY'),maximum:column('Estimated price max JPY')};
+      for(const row of rows){
+        const product=products.find(item=>item.id===row[indexes.id]);
+        if(!product) continue;
+        const dimensions=row[indexes.dimensions].split(/\s*x\s*/i).map(Number);
+        const prices=[Number(row[indexes.minimum]),Number(row[indexes.maximum])];
+        if(dimensions.length===3 && dimensions.every(Number.isFinite)) product.proposedDimensionsCm=dimensions;
+        if(prices.every(Number.isFinite)) product.priceEstimateYen=prices;
+      }
+    }catch(error){
+      // Direct file viewing cannot fetch CSV; bundled product data remains available.
+    }
+  }
   // Viewport hides only the screenshot's app header; the supplied photo remains unchanged.
   let photoSequence = 0;
   const photo = (p,hero=false) => {
@@ -55,4 +88,5 @@
   document.querySelector('#hero-vase').innerHTML=photo(products[0],true);
   document.querySelector('#hero-ganesh').innerHTML=photo(products[34],true);
   render();
+  applyCsvOverrides().then(render);
 })();

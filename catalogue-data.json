@@ -1297,9 +1297,9 @@
       25
     ],
     "proposedDimensionsCm": [
-      4,
-      3,
-      6
+      8,
+      6,
+      14
     ],
     "description": "A miniature Lord Murugan seated on a peacock, holding his Vel. The supplied listing advertises 13 g of filament; the print profile and final weight still need confirmation. Estimate is for one miniature.",
     "image": "assets/print-074.jpg",
@@ -1313,8 +1313,8 @@
       "height": 565
     },
     "priceEstimateYen": [
-      125,
-      185
+      425,
+      585
     ],
     "reportedWeightGrams": 13,
     "sourceNote": "13 g is advertised in the user-supplied screenshot; not independently verified in Bambu Studio.",
