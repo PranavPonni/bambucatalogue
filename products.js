@@ -1262,19 +1262,98 @@ window.CATALOGUE_PRODUCTS = [
       17
     ],
     "description": "A striking Murugan sculpture with a detailed peacock backdrop.",
-    "image": "assets/print-044.jpg",
-    "originalImage": "originals/printables/Screenshot 2026-09-06 at 21.50.03.png",
+    "image": "assets/murugan-photo.jpg",
+    "originalImage": "assets/murugan-photo.jpg",
     "verifiedWeightGrams": null,
     "verifiedDimensionsMm": null,
     "sourceUrl": null,
     "verificationStatus": "Awaiting exact model and sliced A1 mini profile",
     "searchUrl": "https://makerworld.com/en/search/models?keyword=Murugan%20%C2%B7%20God%20of%20War%20Jeyk",
-    "imageWidth": 1052,
-    "imageHeight": 912,
+    "imageWidth": 871,
+    "imageHeight": 1280,
     "priceEstimateYen": [
       674,
       1114
-    ]
+    ],
+    "imageCrop": {
+      "x": 0,
+      "y": 0,
+      "width": 871,
+      "height": 1280
+    },
+    "imageCredit": "User-supplied photograph"
+  },
+  {
+    "category": "God figures",
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "verificationStatus": "Awaiting exact model and sliced A1 mini profile",
+    "id": "P074",
+    "name": "Lord Murugan with Peacock Miniature",
+    "creator": "Cyber Doc",
+    "weightEstimate": [
+      13,
+      25
+    ],
+    "proposedDimensionsCm": [
+      4,
+      3,
+      6
+    ],
+    "description": "A miniature Lord Murugan seated on a peacock, holding his Vel. The supplied listing advertises 13 g of filament; the print profile and final weight still need confirmation. Estimate is for one miniature.",
+    "image": "assets/print-074.jpg",
+    "originalImage": "assets/print-074.jpg",
+    "imageWidth": 1046,
+    "imageHeight": 916,
+    "imageCrop": {
+      "x": 518,
+      "y": 160,
+      "width": 405,
+      "height": 565
+    },
+    "priceEstimateYen": [
+      125,
+      185
+    ],
+    "reportedWeightGrams": 13,
+    "sourceNote": "13 g is advertised in the user-supplied screenshot; not independently verified in Bambu Studio.",
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Lord%20Murugan%20with%20Peacock%20Miniature%20Cyber%20Doc"
+  },
+  {
+    "category": "God figures",
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "verificationStatus": "Awaiting exact model and sliced A1 mini profile",
+    "id": "P075",
+    "name": "Bala Murugan with Vel",
+    "creator": "YGEN Sculpt Studio",
+    "weightEstimate": [
+      60,
+      120
+    ],
+    "proposedDimensionsCm": [
+      7,
+      6,
+      14
+    ],
+    "description": "A standing Bala Murugan with his Vel, an ornate crown, and a lotus-style pedestal. Estimate is for one figure; colour and finish are confirmed on enquiry.",
+    "image": "assets/print-075.jpg",
+    "originalImage": "assets/print-075.jpg",
+    "imageWidth": 1040,
+    "imageHeight": 912,
+    "imageCrop": {
+      "x": 523,
+      "y": 157,
+      "width": 370,
+      "height": 730
+    },
+    "priceEstimateYen": [
+      354,
+      608
+    ],
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Bala%20Murugan%20with%20Vel%20YGEN%20Sculpt%20Studio"
   },
   {
     "id": "P045",

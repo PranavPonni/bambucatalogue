@@ -2,6 +2,6 @@
   "name": "little-layers-catalogue",
   "version": "1.0.0",
   "private": true,
-  "description": "A standalone, responsive catalogue of 73 supplied printable designs.",
+  "description": "A standalone, responsive catalogue of 75 supplied printable designs.",
   "scripts": {"start": "python3 -m http.server 4173", "check": "node --check app.js && node --check products.js"}
 }

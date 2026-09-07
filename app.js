@@ -16,9 +16,9 @@
   const photo = (p,hero=false) => {
     const w=p.imageWidth || 1050, h=p.imageHeight || 1050;
     const top=Math.round(w * 0.1467), margin=Math.round(w * 0.0267);
+    const crop=p.imageCrop || {x:margin,y:top,width:w-margin*2,height:h-top-margin*0.65};
     const clipId = `photo-clip-${++photoSequence}`;
-    const photoHeight = h-top-margin*0.65;
-    return `<svg viewBox="${margin} ${top} ${w-margin*2} ${h-top-margin*0.65}" preserveAspectRatio="xMidYMid ${hero?'slice':'meet'}" role="img" aria-label="${escape(p.name)}"><title>${escape(p.name)}</title><defs><clipPath id="${clipId}"><rect x="${margin}" y="${top}" width="${w-margin*2}" height="${photoHeight}" /></clipPath></defs><image clip-path="url(#${clipId})" href="${p.image}" width="${w}" height="${h}" /></svg>`;
+    return `<svg viewBox="${crop.x} ${crop.y} ${crop.width} ${crop.height}" preserveAspectRatio="xMidYMid ${hero?'slice':'meet'}" role="img" aria-label="${escape(p.name)}"><title>${escape(p.name)}</title><defs><clipPath id="${clipId}"><rect x="${crop.x}" y="${crop.y}" width="${crop.width}" height="${crop.height}" /></clipPath></defs><image clip-path="url(#${clipId})" href="${p.image}" width="${w}" height="${h}" /></svg>`;
   };
   const card = p => `<article class="product-card" data-id="${p.id}">
     <button class="product-image" data-open="${p.id}" aria-label="View ${escape(p.name)} details">${photo(p)}<span class="image-expand">View details ↗</span></button>

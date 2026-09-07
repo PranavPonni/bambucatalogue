@@ -1,6 +1,6 @@
 # Little Layers catalogue
 
-A standalone, responsive webpage built from all 73 screenshots in `printables.zip`.
+A standalone, responsive webpage with 75 designs: the original 73 screenshots in `printables.zip` and two additional Murugan figures.
 
 Open `index.html` directly in a browser, or run `npm start` and visit http://localhost:4173. No build or package installation is required. Upload `index.html`, `styles.css`, `app.js`, `products.js`, `specifications.csv`, and the `assets` directory together to any static website host.
 
@@ -8,7 +8,7 @@ The catalogue includes seven categories, search, sorting, a product detail dialo
 
 ## Specification status — important
 
-The source archive contains screenshots only. No screenshot supplies sliced filament weight or measured model dimensions. **None of the 73 weights or dimensions is verified.** All numeric weights are provisional planning ranges, and sizes are proposed W × D × H in centimetres, not measurements of the original models. The product specifications and detail dialogs label these assumptions.
+The original source archive contains screenshots only. The added Lord Murugan with Peacock Miniature screenshot advertises 13 g; that claim is recorded separately as `reportedWeightGrams`, not a verified sliced result. **None of the 75 weights or dimensions is independently verified.** All displayed ranges are provisional planning estimates, and sizes are proposed W × D × H in centimetres. The product specifications and detail dialogs label these assumptions.
 
 Each product has an explicit estimated price range. A final quote is confirmed on enquiry. Printing requirements, finishing, hardware, delivery, and other costs may affect that quote.
 
@@ -32,7 +32,7 @@ The catalogue keeps the customer flow focused on browsing and enquiry; the intro
 ## Validation
 
 - JavaScript syntax: `npm run check`.
-- Browser checks in Chrome: 73 products; category counts; search, empty state and reset; price sorting; product dialog and Escape; item/phone values in WhatsApp links; no JavaScript errors; no page overflow at 390 px and 320 px; direct local-file loading.
+- Browser checks in Chrome: product and category counts; search, empty state and reset; price sorting; product dialog and Escape; item/phone values in WhatsApp links; no JavaScript errors; no page overflow at 390 px and 320 px; direct local-file loading.
 - Desktop and mobile screenshot review.
 
 GitHub Pages deployment: https://pranavponni.github.io/bambucatalogue/
