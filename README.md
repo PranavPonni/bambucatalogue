@@ -39,4 +39,6 @@ GitHub Pages deployment: https://pranavponni.github.io/bambucatalogue/
 
 Publishing source: **Deploy from a branch → main → / (root)**. Push changes to `main` to update the public catalogue. `.nojekyll` tells Pages to serve these static files directly. Settings: https://github.com/PranavPonni/bambucatalogue/settings/pages
 
+After reviewing and committing your changes, run `npm run deploy`. It checks JavaScript syntax and pushes `main` to GitHub Pages. It stops if you have uncommitted changes or are on another branch; it does not create commits automatically.
+
 Font loading uses Google Fonts, with local serif/sans-serif fallbacks if offline.
