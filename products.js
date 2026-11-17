@@ -2196,5 +2196,670 @@ window.CATALOGUE_PRODUCTS = [
       125,
       219
     ]
+  },
+  {
+    "id": "P076",
+    "name": "Cozy Snowman",
+    "creator": "Ladul",
+    "category": "Christmas",
+    "weightEstimate": [
+      80,
+      150
+    ],
+    "proposedDimensionsCm": [
+      10,
+      10,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-76.jpg",
+    "originalImage": "assets/christmas-76.jpg",
+    "imageWidth": 1066,
+    "imageHeight": 932,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 891,
+      "height": 747
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Cozy%20Snowman%20Ladul",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      408,
+      765
+    ]
+  },
+  {
+    "id": "P077",
+    "name": "Winter Scene – 3D Christmas Decoration",
+    "creator": "3DArtisan",
+    "category": "Christmas",
+    "weightEstimate": [
+      80,
+      150
+    ],
+    "proposedDimensionsCm": [
+      17,
+      7,
+      10
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-77.jpg",
+    "originalImage": "assets/christmas-77.jpg",
+    "imageWidth": 1052,
+    "imageHeight": 914,
+    "imageCrop": {
+      "x": 30,
+      "y": 150,
+      "width": 997,
+      "height": 749
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Winter%20Scene%20%E2%80%93%203D%20Christmas%20Decoration%203DArtisan",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      408,
+      765
+    ]
+  },
+  {
+    "id": "P078",
+    "name": "Scandinavian Christmas Tree Light – Modern",
+    "creator": "Konfettiracker",
+    "category": "Christmas",
+    "weightEstimate": [
+      45,
+      90
+    ],
+    "proposedDimensionsCm": [
+      9,
+      9,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-78.jpg",
+    "originalImage": "assets/christmas-78.jpg",
+    "imageWidth": 1034,
+    "imageHeight": 916,
+    "imageCrop": {
+      "x": 242,
+      "y": 150,
+      "width": 564,
+      "height": 753
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": "https://makerworld.com/en/models/3471303",
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Scandinavian%20Christmas%20Tree%20Light%20%E2%80%93%20Modern%20Konfettiracker",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      230,
+      459
+    ]
+  },
+  {
+    "id": "P079",
+    "name": "Winter Watermill",
+    "creator": "3D Drucker",
+    "category": "Christmas",
+    "weightEstimate": [
+      150,
+      280
+    ],
+    "proposedDimensionsCm": [
+      17,
+      17,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-79.jpg",
+    "originalImage": "assets/christmas-79.jpg",
+    "imageWidth": 1050,
+    "imageHeight": 908,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 875,
+      "height": 723
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Winter%20Watermill%203D%20Drucker",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      765,
+      1428
+    ]
+  },
+  {
+    "id": "P080",
+    "name": "Christmas Tree LED Tealight Holders – 4 Designs",
+    "creator": "Vaporone",
+    "category": "Christmas",
+    "weightEstimate": [
+      45,
+      90
+    ],
+    "proposedDimensionsCm": [
+      9,
+      9,
+      16
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-80.jpg",
+    "originalImage": "assets/christmas-80.jpg",
+    "imageWidth": 1066,
+    "imageHeight": 920,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 891,
+      "height": 735
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Tree%20LED%20Tealight%20Holders%20%E2%80%93%204%20Designs%20Vaporone",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      230,
+      459
+    ]
+  },
+  {
+    "id": "P081",
+    "name": "Magic Castle for LED Kit",
+    "creator": "3D Drucker",
+    "category": "Christmas",
+    "weightEstimate": [
+      160,
+      300
+    ],
+    "proposedDimensionsCm": [
+      17,
+      17,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-81.jpg",
+    "originalImage": "assets/christmas-81.jpg",
+    "imageWidth": 1046,
+    "imageHeight": 918,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 871,
+      "height": 733
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Magic%20Castle%20for%20LED%20Kit%203D%20Drucker",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      816,
+      1530
+    ]
+  },
+  {
+    "id": "P082",
+    "name": "Christmas Village Ornament – Winter Wonderland",
+    "creator": "Styllusak",
+    "category": "Christmas",
+    "weightEstimate": [
+      20,
+      45
+    ],
+    "proposedDimensionsCm": [
+      10,
+      2,
+      12
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-82.jpg",
+    "originalImage": "assets/christmas-82.jpg",
+    "imageWidth": 1046,
+    "imageHeight": 916,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 871,
+      "height": 731
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Village%20Ornament%20%E2%80%93%20Winter%20Wonderland%20Styllusak",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      102,
+      230
+    ]
+  },
+  {
+    "id": "P083",
+    "name": "Reindeer & Sleigh Christmas Catchall Bowl",
+    "creator": "TheHexArtist",
+    "category": "Christmas",
+    "weightEstimate": [
+      90,
+      170
+    ],
+    "proposedDimensionsCm": [
+      17,
+      9,
+      15
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-83.jpg",
+    "originalImage": "assets/christmas-83.jpg",
+    "imageWidth": 1052,
+    "imageHeight": 914,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 877,
+      "height": 729
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Reindeer%20%26%20Sleigh%20Christmas%20Catchall%20Bowl%20TheHexArtist",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      459,
+      867
+    ]
+  },
+  {
+    "id": "P084",
+    "name": "Christmas Tree Ball with Train and Mountains",
+    "creator": "Old Fart Network",
+    "category": "Christmas",
+    "weightEstimate": [
+      35,
+      70
+    ],
+    "proposedDimensionsCm": [
+      10,
+      5,
+      12
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-84.jpg",
+    "originalImage": "assets/christmas-84.jpg",
+    "imageWidth": 1062,
+    "imageHeight": 922,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 887,
+      "height": 737
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": "https://makerworld.com/en/models/3499653",
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Tree%20Ball%20with%20Train%20and%20Mountains%20Old%20Fart%20Network",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      179,
+      357
+    ]
+  },
+  {
+    "id": "P085",
+    "name": "Custom Personalized Christmas Baubles with Names",
+    "creator": "PCnno81",
+    "category": "Christmas",
+    "weightEstimate": [
+      10,
+      25
+    ],
+    "proposedDimensionsCm": [
+      10,
+      0.6,
+      11
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-85.jpg",
+    "originalImage": "assets/christmas-85.jpg",
+    "imageWidth": 1054,
+    "imageHeight": 912,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 879,
+      "height": 727
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Custom%20Personalized%20Christmas%20Baubles%20with%20Names%20PCnno81",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      51,
+      128
+    ]
+  },
+  {
+    "id": "P086",
+    "name": "Christmas Bauble Angel",
+    "creator": "Lukas",
+    "category": "Christmas",
+    "weightEstimate": [
+      35,
+      70
+    ],
+    "proposedDimensionsCm": [
+      10,
+      7,
+      12
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-86.jpg",
+    "originalImage": "assets/christmas-86.jpg",
+    "imageWidth": 1038,
+    "imageHeight": 910,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 863,
+      "height": 725
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Bauble%20Angel%20Lukas",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      179,
+      357
+    ]
+  },
+  {
+    "id": "P087",
+    "name": "Lighted Nativity Arch",
+    "creator": "littleprintlove",
+    "category": "Christmas",
+    "weightEstimate": [
+      50,
+      100
+    ],
+    "proposedDimensionsCm": [
+      17,
+      4,
+      11
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-87.jpg",
+    "originalImage": "assets/christmas-87.jpg",
+    "imageWidth": 1058,
+    "imageHeight": 904,
+    "imageCrop": {
+      "x": 30,
+      "y": 150,
+      "width": 1003,
+      "height": 739
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Lighted%20Nativity%20Arch%20littleprintlove",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      255,
+      510
+    ]
+  },
+  {
+    "id": "P088",
+    "name": "Winter Lighthouse LED Winter Landscape",
+    "creator": "3D Drucker",
+    "category": "Christmas",
+    "weightEstimate": [
+      130,
+      250
+    ],
+    "proposedDimensionsCm": [
+      16,
+      16,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-88.jpg",
+    "originalImage": "assets/christmas-88.jpg",
+    "imageWidth": 1066,
+    "imageHeight": 910,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 891,
+      "height": 725
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Winter%20Lighthouse%20LED%20Winter%20Landscape%203D%20Drucker",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      663,
+      1275
+    ]
+  },
+  {
+    "id": "P089",
+    "name": "Christmas Village Light Arch with Gnomes",
+    "creator": "littleprintlove",
+    "category": "Christmas",
+    "weightEstimate": [
+      50,
+      100
+    ],
+    "proposedDimensionsCm": [
+      17,
+      4,
+      11
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-89.jpg",
+    "originalImage": "assets/christmas-89.jpg",
+    "imageWidth": 1036,
+    "imageHeight": 908,
+    "imageCrop": {
+      "x": 30,
+      "y": 150,
+      "width": 981,
+      "height": 743
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Village%20Light%20Arch%20with%20Gnomes%20littleprintlove",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      255,
+      510
+    ]
+  },
+  {
+    "id": "P090",
+    "name": "Christmas Tree for Bambu Lab LED Kit",
+    "creator": "3D Drucker",
+    "category": "Christmas",
+    "weightEstimate": [
+      65,
+      130
+    ],
+    "proposedDimensionsCm": [
+      10,
+      10,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-90.jpg",
+    "originalImage": "assets/christmas-90.jpg",
+    "imageWidth": 1036,
+    "imageHeight": 902,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 861,
+      "height": 717
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Tree%20for%20Bambu%20Lab%20LED%20Kit%203D%20Drucker",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      332,
+      663
+    ]
+  },
+  {
+    "id": "P091",
+    "name": "Christmas Tree Minimalistic Decor No Supports",
+    "creator": "NowCraft3D",
+    "category": "Christmas",
+    "weightEstimate": [
+      40,
+      85
+    ],
+    "proposedDimensionsCm": [
+      9,
+      9,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-91.jpg",
+    "originalImage": "assets/christmas-91.jpg",
+    "imageWidth": 1062,
+    "imageHeight": 914,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 887,
+      "height": 729
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Christmas%20Tree%20Minimalistic%20Decor%20No%20Supports%20NowCraft3D",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      204,
+      434
+    ]
+  },
+  {
+    "id": "P092",
+    "name": "Magical Winter House with LED Lighting",
+    "creator": "3D Drucker",
+    "category": "Christmas",
+    "weightEstimate": [
+      120,
+      230
+    ],
+    "proposedDimensionsCm": [
+      14,
+      14,
+      17
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-92.jpg",
+    "originalImage": "assets/christmas-92.jpg",
+    "imageWidth": 1048,
+    "imageHeight": 924,
+    "imageCrop": {
+      "x": 310,
+      "y": 190,
+      "width": 440,
+      "height": 670
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Magical%20Winter%20House%20with%20LED%20Lighting%203D%20Drucker",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      612,
+      1173
+    ]
+  },
+  {
+    "id": "P093",
+    "name": "Nordic Deer Candle Holder — Christmas Centerpiece",
+    "creator": "MYSH Studio",
+    "category": "Christmas",
+    "weightEstimate": [
+      70,
+      140
+    ],
+    "proposedDimensionsCm": [
+      17,
+      6,
+      11
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-93.jpg",
+    "originalImage": "assets/christmas-93.jpg",
+    "imageWidth": 1044,
+    "imageHeight": 930,
+    "imageCrop": {
+      "x": 145,
+      "y": 165,
+      "width": 869,
+      "height": 745
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Nordic%20Deer%20Candle%20Holder%20%E2%80%94%20Christmas%20Centerpiece%20MYSH%20Studio",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      357,
+      714
+    ]
+  },
+  {
+    "id": "P094",
+    "name": "Customizable Christmas Ornaments",
+    "creator": "3dplux",
+    "category": "Christmas",
+    "weightEstimate": [
+      10,
+      25
+    ],
+    "proposedDimensionsCm": [
+      10,
+      0.5,
+      11
+    ],
+    "description": "Estimate is for one design. Lighting and accessories are extra. LED lights only for illuminated designs.",
+    "image": "assets/christmas-94.jpg",
+    "originalImage": "assets/christmas-94.jpg",
+    "imageWidth": 1054,
+    "imageHeight": 914,
+    "imageCrop": {
+      "x": 30,
+      "y": 150,
+      "width": 999,
+      "height": 749
+    },
+    "verifiedWeightGrams": null,
+    "verifiedDimensionsMm": null,
+    "sourceUrl": null,
+    "searchUrl": "https://makerworld.com/en/search/models?keyword=Customizable%20Christmas%20Ornaments%203dplux",
+    "verificationStatus": "Planning estimate; model profile and dimensions awaiting verification",
+    "priceEstimateYen": [
+      51,
+      128
+    ]
   }
 ];

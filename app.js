@@ -1,7 +1,7 @@
 'use strict';
 (() => {
   const products = window.CATALOGUE_PRODUCTS;
-  const categories = ['All designs', 'God figures', 'Temples & festive', 'Toys & fidgets', 'Gifts & keychains', 'Vases & planters', 'Home décor', 'Desk & everyday'];
+  const categories = ['All designs', 'Christmas', 'God figures', 'Temples & festive', 'Toys & fidgets', 'Gifts & keychains', 'Vases & planters', 'Home décor', 'Desk & everyday'];
   const state = {category: 'All designs', query: '', sort: 'featured'};
   const grid = document.querySelector('#product-grid');
   const dialog = document.querySelector('#product-dialog');
