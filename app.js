@@ -1,6 +1,7 @@
 'use strict';
 (() => {
   const products = window.CATALOGUE_PRODUCTS;
+  document.querySelector('.hero-foot').innerHTML = `${products.length} designs to discover <span>·</span> Your choice of colour`;
   const categories = ['All designs', 'Christmas', 'God figures', 'Temples & festive', 'Toys & fidgets', 'Gifts & keychains', 'Vases & planters', 'Home décor', 'Desk & everyday'];
   const state = {category: 'All designs', query: '', sort: 'featured'};
   const grid = document.querySelector('#product-grid');
